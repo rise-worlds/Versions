@@ -1,5 +1,5 @@
 {
-    "version": "1.1.21-canary.1+822b725be",
+    "version": "1.1.21-canary.1+957404408",
     "description": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager - all in one.",
     "homepage": "https://bun.sh/",
     "license": "MIT",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://nightly.link/oven-sh/bun/suites/10029563522/artifacts/1723404838#/dl.zip",
-            "hash": "e140ae7b9fe683208caf8e7a887e3a0af22aeac76010945f1292103edb608802",
+            "url": "https://nightly.link/oven-sh/bun/suites/10034221090/artifacts/1724238978#/dl.zip",
+            "hash": "d7029368ba5834b2a1272fb0b5a2f5409311e079d8791f1bb9eed738b7e37d49",
             "pre_install": "Expand-7zipArchive \"$dir\\bun-windows-x64.zip\" -ExtractDir 'bun-windows-x64' -Removal"
         }
     },
